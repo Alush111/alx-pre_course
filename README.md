@@ -1,2 +1,2 @@
 my first readme
-the dream is to be a world class software engineer
+from here, i will work hard to become a world-class software engineer
